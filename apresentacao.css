@@ -11,3 +11,8 @@ body {
 .titulo {
     color: #7FFF00;
 }
+
+.apresentacao {
+    display: flex;
+    align-items: center;
+}
