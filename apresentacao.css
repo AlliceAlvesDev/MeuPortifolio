@@ -43,11 +43,18 @@ body {
     gap: 15px;
 }
 
+.apresentacao__links__subtitulo {
+    font-family: 'Kalam', cursive;
+    font-weight: 600;
+    font-size: 24px;
+}
+
 .apresentacao__links__link {
-    background-color: #7FFF00;
-    width: 280px;
+    border: 2px solid #7FFF00;
+    /* background-color: #7FFF00; */
+    width: 360px;
     text-align: center;
-    border-radius: 16px;
+    border-radius: 8px;
     font-size: 24px;
     font-weight: 600;
     padding: 21.5 0;
