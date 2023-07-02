@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #9370DB;
+    background-color: #467599;
     color: #000000;
 }
 
@@ -64,4 +64,8 @@ body {
     text-decoration: none;
     color: #000000;
     font-family: 'Kalam', cursive;
+}
+
+.apresentacao__links__link:hover {
+    background-color: #272727;
 }
